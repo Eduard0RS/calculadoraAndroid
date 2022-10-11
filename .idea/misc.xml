@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2585" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable/ic_baseline_calculate_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1275" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1185" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2585" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1185" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/drawable/info.xml" value="0.1185" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/layout/fragment_apresentation.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/layout/fragment_dashboard.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/layout/fragment_home.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/layout/fragment_main_fragment.xml" value="0.12664640324214793" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/layout/fragment_notifications.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/menu/menu.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/menu/menu_apresentation.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/menu/menu_main.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2585" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ExercicioEstagio/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
